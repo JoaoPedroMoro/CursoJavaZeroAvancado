@@ -6,3 +6,6 @@ Seção de primeiros passos e aprendizado para conhecer e interagir com a lingua
 
 ## Seção 4: Java - Função IF
 Seção para descobrir a função if, if else e else e praticar vários exercícios para fortalecer o conhecimento dela.
+
+## Seção 5: Java - Função Case
+Seção para conhecer a função case e praticar os conhecimentos nela, realizando alguns exercícios.
