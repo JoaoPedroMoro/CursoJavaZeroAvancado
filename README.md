@@ -1,6 +1,9 @@
 # CursoJavaZeroAvancado
 Repositório para inputar os códigos desenvolvidos durante o curso de Java do Zero ao Avançado e todos os projetos desenvolvidos a partir desse curso, que se encontra na Udemy.
 
+## Seção 1 e 2: Java - Instalando e Preparando o ambiente
+Essa seção no curso apenas ensinou como baixar a IDE Eclipse for Java Developers e o Java.
+
 ## Seção 3: Java - Primeiros Passos
 Seção de primeiros passos e aprendizado para conhecer e interagir com a linguagem Java.
 
@@ -15,3 +18,6 @@ Seção para conhecer e se aprofundar na função While, realizando alguns exerc
 
 ## Seção 7: Java - Função Do-While
 Seção para conhecer e se aprofundar na função Do-While, realizando alguns exercícios para isso.
+
+## Seção 8: Java - Função For
+Seção para conhecer e se aprofundar na função For, realizando alguns exercícios para isso.
