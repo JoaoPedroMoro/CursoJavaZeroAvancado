@@ -24,3 +24,6 @@ Seção para conhecer e se aprofundar na função For, realizando alguns exercí
 
 ## Seção 9: Java - Revisão
 Seção para revisar as estruturas de repetição aprendidas anteriormente, fazendo exemplo e exercício para fixar o conhecimento.
+
+## Seção 10: Java - Array
+Seção para conhecer e se aprofundar nos arrays que estão inclusos no Java padrão, sem a necessidade de importações, realizando exercícios para isso.
