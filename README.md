@@ -21,3 +21,6 @@ Seção para conhecer e se aprofundar na função Do-While, realizando alguns ex
 
 ## Seção 8: Java - Função For
 Seção para conhecer e se aprofundar na função For, realizando alguns exercícios para isso.
+
+## Seção 9: Java - Revisão
+Seção para revisar as estruturas de repetição aprendidas anteriormente, fazendo exemplo e exercício para fixar o conhecimento.
