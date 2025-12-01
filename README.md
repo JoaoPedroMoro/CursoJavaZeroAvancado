@@ -27,3 +27,6 @@ Seção para revisar as estruturas de repetição aprendidas anteriormente, faze
 
 ## Seção 10: Java - Array
 Seção para conhecer e se aprofundar nos arrays que estão inclusos no Java padrão, sem a necessidade de importações, realizando exercícios para isso.
+
+## Seção 11: Java - Matriz
+Seção para conhecer e aprofundar na matriz nativa do Java, que é um vetor de vetores, realizando exercícios para isso.
