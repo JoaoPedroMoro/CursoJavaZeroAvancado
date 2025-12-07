@@ -27,7 +27,8 @@ public class exemplo_classes_e_objetos {
 		
 		meuCarro.exibirInformacoes();
 		
-
+		teclado.close();
+		
 	}
 
 }
