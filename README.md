@@ -32,4 +32,4 @@ Seção para conhecer e se aprofundar nos arrays que estão inclusos no Java pad
 Seção para conhecer e aprofundar na matriz nativa do Java, que é um vetor de vetores, realizando exercícios para isso.
 
 ## Seção 15: Java - Programação Orientada a Objetos
-Seção para conhecer sobre as características da orientação à objetos, realizando alguns exemplos e exercícios para isso
+Seção para conhecer sobre as características da orientação à objetos, realizando alguns exemplos e exercícios para isso.
