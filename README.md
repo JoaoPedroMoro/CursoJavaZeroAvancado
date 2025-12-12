@@ -29,7 +29,10 @@ Seção para revisar as estruturas de repetição aprendidas anteriormente, faze
 Seção para conhecer e se aprofundar nos arrays que estão inclusos no Java padrão, sem a necessidade de importações, realizando exercícios para isso.
 
 ## Seção 11: Java - Matriz
-Seção para conhecer e aprofundar na matriz nativa do Java, que é um vetor de vetores, realizando exercícios para isso.
+Seção para conhecer e aprofundar na matriz nativa do Java, que é um vetor de vetores, realizando exemplos exercícios para isso.
+
+## Seção 12: Java - Listas
+Seção para conhecer e aprofundar nas listas (ArrayList, Arrays) e blibliotecas que ajudam no processamento delas, realizando exercícios para isso.
 
 ## Seção 15: Java - Programação Orientada a Objetos
 Seção para conhecer sobre as características da orientação à objetos, realizando alguns exemplos e exercícios para isso.
