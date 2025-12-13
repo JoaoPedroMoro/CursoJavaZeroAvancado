@@ -35,7 +35,10 @@ Seção para conhecer e aprofundar na matriz nativa do Java, que é um vetor de 
 Seção para conhecer e aprofundar nas listas (ArrayList, Arrays) e blibliotecas que ajudam no processamento delas, realizando exercícios para isso.
 
 ## Seção 13: Java - Set
-Seção para conhecer e aprofundar nos conjuntos set (Set, HashSet, Map, HashMa), realizando exemplos e exercícios para isso.
+Seção para conhecer e aprofundar nos conjuntos set (Set, HashSet, Map, HashMap), realizando exemplos e exercícios para isso.
+
+## Seção 14: Java - Funções
+Seção para conhecer e aprofundar na criação de funções em Java, realizando exemplo e exercícios para isso.
 
 ## Seção 15: Java - Programação Orientada a Objetos
 Seção para conhecer sobre as características da orientação à objetos, realizando alguns exemplos e exercícios para isso.
