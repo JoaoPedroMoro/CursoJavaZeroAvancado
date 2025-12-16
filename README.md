@@ -42,3 +42,6 @@ Seção para conhecer e aprofundar na criação de funções em Java, realizando
 
 ## Seção 15: Java - Programação Orientada a Objetos
 Seção para conhecer sobre as características da orientação à objetos, realizando alguns exemplos e exercícios para isso.
+
+## Seção 16: Java - Desafios
+Seção para fixação de todos os conteúdos aprendidos anteriormente, realizando uma série de exercícios, onde o desafio é realmente a programação individual e sem ajuda do curso.
