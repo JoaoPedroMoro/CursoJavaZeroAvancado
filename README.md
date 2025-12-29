@@ -45,3 +45,6 @@ Seção para conhecer sobre as características da orientação à objetos, real
 
 ## Seção 16: Java - Desafios
 Seção para fixação de todos os conteúdos aprendidos anteriormente, realizando uma série de exercícios, onde o desafio é realmente a programação individual e sem ajuda do curso.
+
+## Seção 17: Java - Interface Gráfica
+Seção para conhecimento e aprofundamento do conhecimento sobre interfaces gráficas, utilizando principalmente a biblioteca javax.
