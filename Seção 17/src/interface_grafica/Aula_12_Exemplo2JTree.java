@@ -210,7 +210,7 @@ public class Aula_12_Exemplo2JTree {
 					
 					arvore.setSelectionPath(caminhoPai);
 					
-					arvore.scrollRowToVisible(Math.max(0,  -1));
+					arvore.scrollRowToVisible(Math.max(0, idx - 1));
 					
 				}
 			}
