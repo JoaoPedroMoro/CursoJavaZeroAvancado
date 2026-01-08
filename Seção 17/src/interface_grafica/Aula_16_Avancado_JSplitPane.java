@@ -7,7 +7,7 @@ public class Aula_16_Avancado_JSplitPane {
 
 	public static void main(String[] args) {
 
-		JFrame f = new JFrame("JSplitPane - duas áreas redimension[aveis");
+		JFrame f = new JFrame("JSplitPane - duas áreas redimensionáveis");
 
 		f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
