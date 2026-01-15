@@ -9,7 +9,7 @@ public class Aula_13_ExemplosMenuBar {
 
 	public static void main(String[] args) {
 
-		JFrame janela = new JFrame("Exemplo JMenuBar (Melhorador)");
+		JFrame janela = new JFrame("Exemplo JMenuBar (Melhorado)");
 		
 		janela.setSize(600, 400);
 		
