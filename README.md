@@ -48,3 +48,6 @@ Seção para fixação de todos os conteúdos aprendidos anteriormente, realizan
 
 ## Seção 17: Java - Interface Gráfica
 Seção para conhecimento e aprofundamento do conhecimento sobre interfaces gráficas, utilizando principalmente a biblioteca javax.
+
+## Seção 18 - Projeto Sorteador de Número
+Seção para desenvolver um projeto/desafio que consiste num aplicativo que escolhe um número dentre um intervalo de números inteiros e exibe esse número na teka.
