@@ -50,4 +50,7 @@ Seção para fixação de todos os conteúdos aprendidos anteriormente, realizan
 Seção para conhecimento e aprofundamento do conhecimento sobre interfaces gráficas, utilizando principalmente a biblioteca javax.
 
 ## Seção 18 - Projeto Sorteador de Número
-Seção para desenvolver um projeto/desafio que consiste num aplicativo que escolhe um número dentre um intervalo de números inteiros e exibe esse número na teka.
+Seção para desenvolver um projeto/desafio que consiste num aplicativo que escolhe um número dentre um intervalo de números inteiros e exibe esse número na tela.
+
+## Seção 19 - Projeto Relógio Mundial
+Seção para desenvolver um projeto/desafio que consiste num aplicativo que mostra o horário mundial de várias localidades do planeta, exibindo cada um na tela.
