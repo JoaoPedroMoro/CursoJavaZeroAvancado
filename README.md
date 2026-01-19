@@ -55,5 +55,8 @@ Seção para desenvolver um projeto/desafio que consiste num aplicativo que esco
 ## Seção 19 - Projeto Relógio Mundial
 Seção para desenvolver um projeto/desafio que consiste num aplicativo que mostra o horário mundial de várias localidades do planeta, exibindo cada um na tela.
 
-## Seção 2 - Projeto Efeito Revelação Dinâmica
+## Seção 20 - Projeto Efeito Revelação Dinâmica
 Seção para desenvolver um projeto/desafio que consiste em fazer uma revelação dinâmica em cima de uma foto, exibindo uma imagem diferente ao passar o mouse em cima da foto inicial.
+
+## Seção 21 - Projeto Semafóro
+Seção para desenvolver um projeto/desafio que consiste em criar um semáforo semelhante ao da vida real, respeitando os estados e as ordens de cores.
