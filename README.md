@@ -60,3 +60,6 @@ Seção para desenvolver um projeto/desafio que consiste em fazer uma revelaçã
 
 ## Seção 21 - Projeto Semafóro
 Seção para desenvolver um projeto/desafio que consiste em criar um semáforo semelhante ao da vida real, respeitando os estados e as ordens de cores.
+
+## Seção 25 - Projeto Calculadora
+Seção para desenvolver um projeto/desafio que consiste em criar uma calculadora que realiza operações matemáticas simples entre dois números (adição, subtração, multiplicação e divisão).
