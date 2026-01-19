@@ -63,3 +63,6 @@ Seção para desenvolver um projeto/desafio que consiste em criar um semáforo s
 
 ## Seção 25 - Projeto Calculadora
 Seção para desenvolver um projeto/desafio que consiste em criar uma calculadora que realiza operações matemáticas simples entre dois números (adição, subtração, multiplicação e divisão).
+
+## Seção 33 - Projeto Quiz
+Seção para desenvolver um projeto/desafio que consiste num jogo de perguntas e respostas, no qual o jogador precisa escolher uma resposta dentre 4 alternativas para a pergunta que aparece na tela, mostrando o resultado e se ele acertou ou errou cada pergunta.
