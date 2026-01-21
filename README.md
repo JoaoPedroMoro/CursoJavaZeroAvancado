@@ -69,3 +69,6 @@ Seção para desenvolver um projeto/desafio que consiste num jogo de perguntas e
 
 ## Seção 36 - Projeto Jogo tabuada
 Seção para desenvolver um projeto/desafio que consiste num jogo de tabuada, onde o usuário escolhe um número para dizer a tabuada ou pode ir acertando aleatoriamente, até errar.
+
+## Seção 37 - Projeto ToolTip Básico
+Seção para desenvolver um projeto/desafio que consiste numa janela com uma tabela, que ao passar o mouse em cima de alguma linha, abre uma tooltip com as informações da linha, para facilitar a visualização do usuário.
