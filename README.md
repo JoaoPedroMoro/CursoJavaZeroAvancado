@@ -66,3 +66,6 @@ Seção para desenvolver um projeto/desafio que consiste em criar uma calculador
 
 ## Seção 33 - Projeto Quiz
 Seção para desenvolver um projeto/desafio que consiste num jogo de perguntas e respostas, no qual o jogador precisa escolher uma resposta dentre 4 alternativas para a pergunta que aparece na tela, mostrando o resultado e se ele acertou ou errou cada pergunta.
+
+## Seção 36 - Projeto Jogo tabuada
+Seção para desenvolver um projeto/desafio que consiste num jogo de tabuada, onde o usuário escolhe um número para dizer a tabuada ou pode ir acertando aleatoriamente, até errar.
