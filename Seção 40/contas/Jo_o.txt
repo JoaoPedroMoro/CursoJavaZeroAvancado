@@ -1,0 +1,10 @@
+NOME=João
+SENHA=123
+SALDO=3000.0
+HISTORICO_START
+Conta criada com saldo inicial de R$ 500,00
+Depósito de R$ 1.500
+Depósito de R$ 2.500
+Saque de R$ 1.250
+Saque de R$ 250
+HISTORICO_END

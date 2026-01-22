@@ -75,3 +75,6 @@ Seção para desenvolver um projeto/desafio que consiste numa janela com uma tab
 
 ## Seção 39 - Projeto Gerador de CPF
 Seção para desenvolver um projeto/desafio que consiste em um programa que tem duas funcionalidades: gerar um CPF válido conforme as regras de um CPF e a validação de um CPF que o usuário inserir.
+
+## Seção 40 - Projeto Caixa Eletrônico
+Seção para desenvolver um projeto/desafio que consiste em um caixa eletrônico onde pode ser feito depósitos e saques de uma conta, salvando as contas em uma pasta no diretório do projeto em um arquivo .txt.
