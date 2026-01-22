@@ -72,3 +72,6 @@ Seção para desenvolver um projeto/desafio que consiste num jogo de tabuada, on
 
 ## Seção 37 - Projeto ToolTip Básico
 Seção para desenvolver um projeto/desafio que consiste numa janela com uma tabela, que ao passar o mouse em cima de alguma linha, abre uma tooltip com as informações da linha, para facilitar a visualização do usuário.
+
+## Seção 39 - Projeto Gerador de CPF
+Seção para desenvolver um projeto/desafio que consiste em um programa que tem duas funcionalidades: gerar um CPF válido conforme as regras de um CPF e a validação de um CPF que o usuário inserir.
