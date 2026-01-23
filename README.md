@@ -84,3 +84,6 @@ Seção apenas para ensinar como baixar o MongoDB e as dependências corretament
 
 ## Seção 42 - Projeto Sistema de Cadastro (Java + MongoDB)
 Seção para desenvolver um projeto/desafio de cadastro de pessoas utilizando o MongoDB, onde em tempo real podemos adicionar, editar ou excluir um registro em um banco de dados NoSQL MongoDB ou também podemos exportar para um arquivo .CSV.
+
+## Seção 43 - Projeto Passagens Ônibus
+Seção para desenvolver um projeto/desafio de sistema de passagens de ônibus, onde as passagens precisam ser reservadas para cada pessoa para cada dia.
