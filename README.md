@@ -78,3 +78,9 @@ Seção para desenvolver um projeto/desafio que consiste em um programa que tem 
 
 ## Seção 40 - Projeto Caixa Eletrônico
 Seção para desenvolver um projeto/desafio que consiste em um caixa eletrônico onde pode ser feito depósitos e saques de uma conta, salvando as contas em uma pasta no diretório do projeto em um arquivo .txt.
+
+## Seção 41 - Baixando e Instalando o MongoDB
+Seção apenas para ensinar como baixar o MongoDB e as dependências corretamente.
+
+## Seção 42 - Projeto Sistema de Cadastro (Java + MongoDB)
+Seção para desenvolver um projeto/desafio de cadastro de pessoas utilizando o MongoDB, onde em tempo real podemos adicionar, editar ou excluir um registro em um banco de dados NoSQL MongoDB ou também podemos exportar para um arquivo .CSV.
