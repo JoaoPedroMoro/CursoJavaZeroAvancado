@@ -87,3 +87,6 @@ Seção para desenvolver um projeto/desafio de cadastro de pessoas utilizando o 
 
 ## Seção 43 - Projeto Passagens Ônibus
 Seção para desenvolver um projeto/desafio de sistema de passagens de ônibus, onde as passagens precisam ser reservadas para cada pessoa para cada dia.
+
+## Seção 44 - Projeto Supermercado
+Seção para desenvolver um projeto/desafio de sistema de supermercado, onde possui usuários, fornecedores, produtos, vendas, simulando um sistema real.
