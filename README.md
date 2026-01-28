@@ -90,3 +90,6 @@ Seção para desenvolver um projeto/desafio de sistema de passagens de ônibus, 
 
 ## Seção 44 - Projeto Supermercado
 Seção para desenvolver um projeto/desafio de sistema de supermercado, onde possui usuários, fornecedores, produtos, vendas, simulando um sistema real.
+
+## Seção 47 - Projeto Jogo Dominó
+Seção para desenvolver um projeto/desafio o qual consiste em um jogo de dominó real, com as peças, regras e contra uma inteligência artificial.
