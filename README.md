@@ -93,3 +93,6 @@ Seção para desenvolver um projeto/desafio de sistema de supermercado, onde pos
 
 ## Seção 47 - Projeto Jogo Dominó
 Seção para desenvolver um projeto/desafio o qual consiste em um jogo de dominó real, com as peças, regras e contra uma inteligência artificial.
+
+## Seção 63 - Jogo da Memória
+Seção para desenvolver um projeto/desafio que consiste em um jogo da memória contendo 20 peças, simulando um jogo da memória real.
