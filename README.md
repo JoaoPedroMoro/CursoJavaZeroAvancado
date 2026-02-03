@@ -96,3 +96,9 @@ Seção para desenvolver um projeto/desafio o qual consiste em um jogo de domin�
 
 ## Seção 63 - Jogo da Memória
 Seção para desenvolver um projeto/desafio que consiste em um jogo da memória contendo 20 peças, simulando um jogo da memória real.
+
+## Seção 90 - Download MySQL, MySQL Workbench e Connector
+Seção para download do MySQL e ferramentas relacionadas a ele para uso durante o curso.
+
+## Seção 91 - Sistema de Cadastro
+Seção para desenvolver um projeto/desafio que consiste em um sistema de cadastro de pessoas que armazena e faz operações em tempo real em um banco de dados MySQL.
