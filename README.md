@@ -102,3 +102,6 @@ Seção para download do MySQL e ferramentas relacionadas a ele para uso durante
 
 ## Seção 91 - Sistema de Cadastro
 Seção para desenvolver um projeto/desafio que consiste em um sistema de cadastro de pessoas que armazena e faz operações em tempo real em um banco de dados MySQL.
+
+## Seção 95 - Tooltip lista de produtos com imagens
+Seção para desenvolver um projeto/desafio que consiste em um sistema de produtos, contendo vendedor, preço e total, que ao passar o mouse em cima do produto aparece a imagem dele, armazenando essa lista de vendas em um banco de dados MySQL.
